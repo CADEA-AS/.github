@@ -4,10 +4,9 @@ labels: [bug]
 
 body:
   - type: textarea
-    id: desc
+    id: description
     attributes:
       label: "Describe your issue"
-      placeholder: "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
     validations:
       required: true
   - type: input
@@ -21,11 +20,6 @@ body:
     id: reproduce
     attributes:
       label: Steps to Reproduce
-      placeholder: |
-        1. Go to '...'
-        2. Click on '....'
-        3. Scroll down to '....'
-        4. See error
     validations:
       required: true
   - type: textarea
