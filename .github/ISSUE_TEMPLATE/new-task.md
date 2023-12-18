@@ -15,6 +15,5 @@ body:
       - label: Orange cat (required. Everyone likes orange cats.)
         required: true
       - label: **Black cat**
-
 ---
 some template text
