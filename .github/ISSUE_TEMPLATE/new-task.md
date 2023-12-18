@@ -2,7 +2,7 @@
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
-about: ""
+about: Describe this issue
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
